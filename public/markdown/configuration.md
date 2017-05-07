@@ -41,6 +41,8 @@ Remember that you must have `Administrator` permissions to be able to change the
 FredBoat supports several user-contributed languages that you can select with this command.
 Translating FredBoat is a community project, so translations may not be 100% accurate or complete. Missing translations may be contributed at https://crowdin.com/project/fredboat.
 
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/fredboat/localized.svg)](https://crowdin.com/project/fredboat)
+
  | Command                    | Description                                                           | Example usage                               |
  |----------------------------|-----------------------------------------------------------------------|---------------------------------------------|
 | ;;lang                    | Displays information about the ;;lang command and the list of currently supported languages. | ;;lang
@@ -96,5 +98,7 @@ Frederikam:  Sprache wurde auf Deutsch geändert.
 ```
 
 [Help us translate Fredboat♪♪!](https://crowdin.com/project/fredboat)
+
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/fredboat/localized.svg)](https://crowdin.com/project/fredboat)
 
 [![Crowdin Logo](https://i.imgur.com/0Hef2Bc.png)](https://crowdin.com/project/fredboat)
