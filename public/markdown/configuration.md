@@ -36,12 +36,11 @@ Frederikam:  track_announce is now set to true.
 Remember that you must have `Administrator` permissions to be able to change the configuration of FredBoat♪♪.
 
 
-## Language settings configuration
+## Language settings configuration [![Crowdin](https://d322cqt584bo4o.cloudfront.net/fredboat/localized.svg)](https://crowdin.com/project/fredboat)
 
 FredBoat supports several user-contributed languages that you can select with this command.
 Translating FredBoat is a community project, so translations may not be 100% accurate or complete. Missing translations may be contributed at https://crowdin.com/project/fredboat.
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/fredboat/localized.svg)](https://crowdin.com/project/fredboat)
 
  | Command                    | Description                                                           | Example usage                               |
  |----------------------------|-----------------------------------------------------------------------|---------------------------------------------|
