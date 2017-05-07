@@ -97,4 +97,4 @@ Frederikam:  Sprache wurde auf Deutsch geändert.
 
 [Help us translate Fredboat♪♪!](https://crowdin.com/project/fredboat)
 
-[![Crowdin Badge](https://i.imgur.com/0Hef2Bc.png)](https://crowdin.com/project/fredboat)
+[![Crowdin Logo](https://i.imgur.com/0Hef2Bc.png)](https://crowdin.com/project/fredboat)
